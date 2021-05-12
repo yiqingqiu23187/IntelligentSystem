@@ -1,0 +1,22 @@
+
+‰
+java:S1130	"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8­ê–ªß.
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(²Ž‚ä8‚öá¸Û.
+8
+java:S3626D"Remove this redundant jump.(ûÁÝ…8òžÔ¸Û.
+]	java:S125"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8Ãô”ªß.
+o
+java:S2095N"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ŸøÃüûÿÿÿÿ8½ÂÔ¸Û.
+k
+java:S2095U"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(àáŒÏ8‹ÛÔ¸Û.
+X	java:S125"<This block of commented-out lines of code should be removed.(©ÛÆõ8Ãô”ªß.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óÎ °ùÿÿÿÿ
+^	java:S899R"BDo something with the "boolean" value returned by "createNewFile".(¥ôþø8òžÔ¸Û.
+C
+java:S1075P"&Remove this hard-coded path-delimiter.(õæ°º8òžÔ¸Û.
+]	java:S125
+"<This block of commented-out lines of code should be removed.(ÑÔÐ¸þÿÿÿÿ8Ãô”ªß.
+^	java:S899%"=Do something with the "boolean" value returned by "renameTo".(¡¡ ¦ÿÿÿÿÿ8­ê–ªß.
+H
+java:S1075?"&Remove this hard-coded path-delimiter.(»Ûô¥úÿÿÿÿ8òžÔ¸Û.

@@ -1,0 +1,19 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç“Ä»ùÿÿÿÿ8®É¸ñÖ.
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(¯ßŠÌ8“„ˆ˜Ø.
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8©µßœÖ.
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(ª»Ÿ±8“„ˆ˜Ø.
+Z	java:S106D"9Replace this use of System.out or System.err by a logger.(¤Ñöˆÿÿÿÿÿ8“„ˆ˜Ø.
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(Ê”İÿÿÿÿÿ8“„ˆ˜Ø.
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(á¯±šùÿÿÿÿ8“„ˆ˜Ø.
+o
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Çµí‘8ûâ¦ÑÖ.
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(Áå±°8“„ˆ˜Ø.
+U	java:S106:"9Replace this use of System.out or System.err by a logger.(¼æÁğ8¹ß˜Ø.
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(½÷š†8“„ˆ˜Ø.
+E
+java:S1148d"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8œÃ¸å×.
+u
+java:S2259Q"S"NullPointerException" will be thrown when invoking method "convertImageToArray()".(ù¿€¢üÿÿÿÿ8œÃ¸å×.
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8“„ˆ˜Ø.

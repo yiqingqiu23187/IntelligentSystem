@@ -1,0 +1,14 @@
+
+7
+test.py,a\3\a36e355ddb203d7d4133221f339dc406cb9f480f
+;
+Classifi.py,8\8\88ce2043142fd8ecc6a52f40f8ab39ad8c39e1e4
+6
+CNN.py,5\3\536739b2e4b81020b34d723e4ec9fdc230b09aa5
+8
+gold.txt,5\2\528120eab5f1839c6ff52d11d574adb6e4b4e089
+8
+pred.txt,9\1\91262b14f2aad8e0a796534b2705a6a5910ebd11
+:
+
+checker.py,e\8\e8451a5ef2efbaaf4438c19cdc700ea9fd2ff93b

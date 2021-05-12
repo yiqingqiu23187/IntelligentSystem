@@ -1,0 +1,13 @@
+
+P
+java:S1444"3Make this "public static bLearningRate" field final(Éõ˜8³Ò‰¬Õ.
+X
+java:S3518w";Make sure "total" can't be zero before doing this division.(É¯îñ8äºÑÖ.
+v
+java:S1104"YMake bLearningRate a static final constant or non-public and provide accessors if needed.(Éõ˜8³Ò‰¬Õ.
+{
+java:S1104"YMake wLearningRate a static final constant or non-public and provide accessors if needed.(ì°‡Çüÿÿÿÿ8³Ò‰¬Õ.
+^
+java:S1126@"AReplace this if-then-else statement by a single return statement.( İóØ8Å† ÑÖ.
+U
+java:S1444"3Make this "public static wLearningRate" field final(ì°‡Çüÿÿÿÿ8³Ò‰¬Õ.

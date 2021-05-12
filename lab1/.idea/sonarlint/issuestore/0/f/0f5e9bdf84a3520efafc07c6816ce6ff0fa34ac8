@@ -1,0 +1,44 @@
+
+c	java:S899S"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ8×ÅÖ¨ß.
+D	java:S131™""Add a default case to this switch.(¼œóÛüÿÿÿÿ8Íª¨ß.
+E
+java:S1148n"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Íª¨ß.
+^
+java:S1075P"ARefactor your code to get this URI from a customizable parameter.(öŠòÍ8Áà¨ß.
+q
+java:S2095i"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(·¿ƒ…ıÿÿÿÿ8ŠïŸ¨ß.
+E
+java:S1148]"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ãåÃ¨ß.
+g
+java:S2259X"EA "NullPointerException" could be thrown; "network" is nullable here.(µàÄòşÿÿÿÿ8©‰Ä¨ß.
+\	java:S899R";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ8×ÅÖ¨ß.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(‘¿Ù€8¢¬¨ß.
+]	java:S125"<This block of commented-out lines of code should be removed.(Œ°«¡üÿÿÿÿ8¢¬¨ß.
+o
+java:S2095h"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Ì¥¤üşÿÿÿÿ8Íª¨ß.
+r
+java:S2095{"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(ıñõûÿÿÿÿ8ŠïŸ¨ß.
+X	java:S125"<This block of commented-out lines of code should be removed.(˜İ¯›8¢¬¨ß.
+]	java:S125	"<This block of commented-out lines of code should be removed.(â‰›Ğûÿÿÿÿ8Á±Ï©ß.
+q
+java:S2259†"S"NullPointerException" will be thrown when invoking method "convertImageToArray()".(ÏŠÊÚ8Íª¨ß.
+b
+java:S2147m"ECombine this catch with the one at line 107, which has the same body.(ıàÑÎ8Íª¨ß.
+F
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Íª¨ß.
+p
+java:S4042R"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ8×ÅÖ¨ß.
+E
+java:S1148l"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Íª¨ß.
+k
+java:S2095x"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(–œÃò8Íª¨ß.
+t
+java:S2095z"RUse try-with-resources or close this "BufferedOutputStream" in a "finally" clause.(ã¨¿®şÿÿÿÿ8Íª¨ß.
+F
+java:S1148€"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Íª¨ß.
+R
+java:S1128"5Remove this unused import 'java.util.logging.Logger'.(ƒ¥óš8¿É›¨ß.
+]	java:S1255"<This block of commented-out lines of code should be removed.(½Ü—Èùÿÿÿÿ8¢¬¨ß.
+i
+java:S2095U"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(Äºİ…8äİÆ¨ß.
